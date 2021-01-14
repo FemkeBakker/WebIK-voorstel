@@ -56,12 +56,12 @@ Een pagina dezelfde quiz kunnen maken met een eigen highscore-pagina. Dit is de 
 De eerste feature die nodig is voor Musiquiz is een Inlogpagina en een register pagina waarbij je dus kan inloggen of registreren. Als een gebruiker inlogt krijgen ze een overzichtspagina met alle features te zien. Er is een vraag pagina waar gebruikers hun Musiquiz kunnen invullen. Vervolgens is er een quizpagina nodig waar de gebruiker Musiquiz vragen kan selecteren voor een quiz. Als de gebruiker een quiz voltooid heeft kan de gebruiker zijn score zien en de highscore zien in de highscore pagina. Daarnaast is er ook een eigen vraag pagina waarbij gebruikers hun eigen vragen in de database kan stoppen en een competitie pagina waarbij gebruikers quizzen kunnen maken met een eigen highscore pagina. De haalbaarheid van audio, lyric en foto vragen is nog onduidelijk, hierdoor is de eerste focus op de theorie vragen.
 
 ##### Features toekennen
-Standaard quizzen: Martin
-Vraag Pagina: Sasja
-Quizpagina: Martin 
-Highscore-pagina: Lior
-Eigen-vraag-pagina: Femke
-Competitie-pagina: Noah
+* Standaard quizzen: Martin
+* Vraag Pagina: Sasja
+* Quizpagina: Martin 
+* Highscore-pagina: Lior
+* Eigen-vraag-pagina: Femke
+* Competitie-pagina: Noah
 
 ##### Afhankelijkheden
 Databronnen: 
