@@ -75,7 +75,7 @@ Externe componenten:
 * bootstrap voor opmaak.
 
 
-Concurrerende sites: 
+Concurrerende sites:       
 https://www.popkwiz.nl/ 
 Bij de quizzen wordt er gebruik gemaakt van een timer. Dit zouden we kunnen gebruiken wanneer blijkt dat de vragen te makkelijk zijn. Ook zou er met een timer gespeeld kunnen worden met moeilijkheidsgraad. 
 
